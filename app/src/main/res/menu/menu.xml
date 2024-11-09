@@ -2,22 +2,27 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/action_home"
-        android:title="NUmero Primo"/>
+        android:title="NUmero Primo"
+        android:icon="@drawable/icon_primo_24px"/>
 
     <item
         android:id="@+id/action_edad"
-        android:title="Calcular Edad"/>
+        android:title="Calcular Edad"
+        android:icon="@drawable/icon_age_24px"/>
 
     <item
         android:id="@+id/action_area"
-        android:title="Calcular Area"/>
+        android:title="Calcular Area"
+        android:icon="@drawable/icon_triangulo_24px"/>
 
     <item
         android:id="@+id/action_trabajo"
-        android:title="Calcular trabajo"/>
+        android:title="Calcular trabajo"
+        android:icon="@drawable/icon_work_24px"/>
 
     <item
         android:id="@+id/action_factores"
-        android:title="Calcular Factores"/>
+        android:title="Calcular Factores"
+        android:icon="@drawable/icon_factores_24px"/>
 
 </menu>
