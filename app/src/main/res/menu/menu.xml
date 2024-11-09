@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="NUmero Primo"/>
+
+    <item
+        android:id="@+id/action_edad"
+        android:title="Calcular Edad"/>
+
+    <item
+        android:id="@+id/action_area"
+        android:title="Calcular Area"/>
+
+    <item
+        android:id="@+id/action_trabajo"
+        android:title="Calcular trabajo"/>
+
+    <item
+        android:id="@+id/action_factores"
+        android:title="Calcular Factores"/>
+
+</menu>
