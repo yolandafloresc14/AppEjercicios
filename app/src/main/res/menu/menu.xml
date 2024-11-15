@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
     <item
-        android:id="@+id/action_home"
+        android:id="@+id/id_bienvenida"
+        android:title="Bienvenida" />
+
+    <item
+        android:id="@+id/action_primo"
         android:title="NUmero Primo"
         android:icon="@drawable/icon_primo_24px"/>
 
@@ -19,6 +24,10 @@
         android:id="@+id/action_trabajo"
         android:title="Calcular trabajo"
         android:icon="@drawable/icon_work_24px"/>
+
+    <item
+        android:id="@+id/action_factores60"
+        android:title="Calcular factores de 60" />
 
     <item
         android:id="@+id/action_factores"

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="dark_navy">#1B1931</color>
+    <color name="deep_purple">#44174E</color>
+    <color name="plum">#662249</color>
+    <color name="dark_rose">#A34054</color>
+    <color name="orange_accent">#ED9E59</color>
+    <color name="soft_peach">#E9BCB9</color>
+    <color name="white">#FFFFFF</color>
+
 </resources>

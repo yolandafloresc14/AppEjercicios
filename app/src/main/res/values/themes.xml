@@ -1,9 +1,18 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.AppEjercicios" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <!-- Tema base reutilizable -->
+    <style name="Base.Theme.AppEjercicios" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:colorBackground">@color/soft_peach</item> <!-- Fondo de color suave -->
+        <item name="android:textColor">@color/dark_navy</item> <!-- Texto oscuro para contraste -->
+        <!-- Configuraciones comunes adicionales -->
     </style>
 
-    <style name="Theme.AppEjercicios" parent="Base.Theme.AppEjercicios" />
+    <!-- Tema específico que hereda del tema base -->
+    <style name="AppEjercicios" parent="Base.Theme.AppEjercicios">
+        <item name="colorPrimary">@color/deep_purple</item> <!-- Color primario -->
+        <item name="colorPrimaryVariant">@color/plum</item> <!-- Variante del color primario -->
+        <item name="colorOnPrimary">@color/white</item> <!-- Color de texto sobre fondo primario -->
+        <item name="colorSecondary">@color/dark_rose</item> <!-- Color secundario -->
+        <item name="colorSecondaryVariant">@color/orange_accent</item> <!-- Variante de color secundario -->
+        <item name="colorOnSecondary">@color/soft_peach</item> <!-- Color de texto sobre fondo secundario -->
+    </style>
 </resources>

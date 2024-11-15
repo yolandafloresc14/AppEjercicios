@@ -1,3 +1,11 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">AppEjercicios</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer" tools:ignore="PrivateResource">Cerrar menú</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="subtitulo">Tu App</string>
+    <string name="titulo_bienvenida">Bienvenido a la Aplicación de Ejercicios</string>
+    <string name="subtitulo_bienvenida">Aquí podrás realizar distintos ejercicios de cálculo y lógica.</string>
+    <string name="mensaje_bienvenida_1">By: Yolanda Flores Chavesta</string>
 </resources>
