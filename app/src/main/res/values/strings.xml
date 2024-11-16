@@ -7,5 +7,5 @@
     <string name="subtitulo">Tu App</string>
     <string name="titulo_bienvenida">Bienvenido a la Aplicación de Ejercicios</string>
     <string name="subtitulo_bienvenida">Aquí podrás realizar distintos ejercicios de cálculo y lógica.</string>
-    <string name="mensaje_bienvenida_1">By: Yolanda Flores Chavesta</string>
+    <string name="mensaje_bienvenida_1">Yolanda Flores Chavesta</string>
 </resources>

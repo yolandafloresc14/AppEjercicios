@@ -3,7 +3,8 @@
 
     <item
         android:id="@+id/id_bienvenida"
-        android:title="Bienvenida" />
+        android:title="Bienvenida"
+        android:icon="@drawable/bienvenida"/>
 
     <item
         android:id="@+id/action_primo"
@@ -27,7 +28,8 @@
 
     <item
         android:id="@+id/action_factores60"
-        android:title="Calcular factores de 60" />
+        android:title="Calcular factores de 60"
+        android:icon="@drawable/icon_factor"/>
 
     <item
         android:id="@+id/action_factores"
